@@ -1,9 +1,9 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# OpenWrt Configuratio
+OpenWrt Configuration=y
 # CONFIG_MODULES is not set
-CONFIG_HAVE_DOT_CONFIG=y
-CONFIG_HOST_OS_LINUX=y
+# CONFIG_HAVE_DOT_CONFIG is not set
+# CONFIG_HOST_OS_LINUX is not set
 # CONFIG_HOST_OS_MACOS is not set
 # CONFIG_TARGET_sunxi is not set
 # CONFIG_TARGET_apm821xx is not set
