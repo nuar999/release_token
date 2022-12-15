@@ -22,7 +22,7 @@
 # CONFIG_TARGET_lantiq is not set
 # CONFIG_TARGET_malta is not set
 # CONFIG_TARGET_pistachio is not set
-CONFIG_TARGET_mvebu=y
+# CONFIG_TARGET_mvebu is not set
 # CONFIG_TARGET_kirkwood is not set
 # CONFIG_TARGET_mediatek is not set
 # CONFIG_TARGET_ramips is not set
@@ -43,7 +43,7 @@ CONFIG_TARGET_mvebu=y
 # CONFIG_TARGET_uml is not set
 # CONFIG_TARGET_zynq is not set
 # CONFIG_TARGET_x86 is not set
-CONFIG_TARGET_mvebu_cortexa9=y
+# CONFIG_TARGET_mvebu_cortexa9 is not set
 # CONFIG_TARGET_mvebu_cortexa53 is not set
 # CONFIG_TARGET_mvebu_cortexa72 is not set
 # CONFIG_TARGET_MULTI_PROFILE is not set
