@@ -56,7 +56,7 @@
 # CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt1200ac is not set
 # CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt1900acs is not set
 # CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt1900ac-v1 is not set
-CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt1900ac-v2=y
+# CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt1900ac-v2 is not set
 # CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt3200acm is not set
 # CONFIG_TARGET_mvebu_cortexa9_DEVICE_linksys_wrt32x is not set
 # CONFIG_TARGET_mvebu_cortexa9_DEVICE_marvell_a370-db is not set
